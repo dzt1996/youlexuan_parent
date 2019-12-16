@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_common/youlexuan_common.iml" filepath="$PROJECT_DIR$/youlexuan_common/youlexuan_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_dao/youlexuan_dao.iml" filepath="$PROJECT_DIR$/youlexuan_dao/youlexuan_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_manager_web/youlexuan_manager_web.iml" filepath="$PROJECT_DIR$/youlexuan_manager_web/youlexuan_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_parent.iml" filepath="$PROJECT_DIR$/youlexuan_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_pojo/youlexuan_pojo.iml" filepath="$PROJECT_DIR$/youlexuan_pojo/youlexuan_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_sellergoods_interface/youlexuan_sellergoods_interface.iml" filepath="$PROJECT_DIR$/youlexuan_sellergoods_interface/youlexuan_sellergoods_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_sellergoods_service/youlexuan_sellergoods_service.iml" filepath="$PROJECT_DIR$/youlexuan_sellergoods_service/youlexuan_sellergoods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan_shop_web/youlexuan_shop_web.iml" filepath="$PROJECT_DIR$/youlexuan_shop_web/youlexuan_shop_web.iml" />
+    </modules>
+  </component>
+</project>
